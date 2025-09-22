@@ -1,0 +1,6 @@
+[submodule "movies-frontend"]
+	path = movies-frontend
+	url = https://git.host/you/movies-frontend.git
+[submodule "Movies-Social-Network"]
+	path = Movies-Social-Network
+	url = https://git.host/you/Movies-Social-Network.git
