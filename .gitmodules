@@ -1,6 +1,6 @@
 [submodule "movies-frontend"]
 	path = movies-frontend
-	url = https://github.com/BogdanB14/movies-frontend.git
+	url = https://github.com/BogdanB14/Movies-Social-Network-frontend.git
 [submodule "Movies-Social-Network"]
 	path = Movies-Social-Network
 	url = https://github.com/BogdanB14/Movies-Social-Network.git
